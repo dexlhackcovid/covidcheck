@@ -58,6 +58,21 @@ A seguir alguns exemplos da versão nativa da aplicação
 ![](https://imgur.com/EJ9ey4s.jpg)
 
 
+Membros da equipe DexlLab
 
+Anderson Silva
 
- 
+https://github.com/AndersonChaves/
+
+Gustavo Chermout
+https://github.com/gustavochermout
+Henrique Matheus
+
+Matheus Gritz
+https://github.com/masgritz
+
+Rafael Silva
+https://github.com/R-S-P-MODELS
+
+Raquel Gritz
+https://github.com/rjgritz
