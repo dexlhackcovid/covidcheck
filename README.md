@@ -61,18 +61,19 @@ A seguir alguns exemplos da versão nativa da aplicação
 Membros da equipe DexlLab
 
 Anderson Silva
-
 https://github.com/AndersonChaves/
 
 Gustavo Chermout
 https://github.com/gustavochermout
+
 Henrique Matheus
+http://www.linkedin.com/in/henrique-silva-116a20163
 
 Matheus Gritz
-https://github.com/masgritz
+https://www.linkedin.com/in/matheusgritz/
 
 Rafael Silva
 https://github.com/R-S-P-MODELS
 
 Raquel Gritz
-https://github.com/rjgritz
+https://www.linkedin.com/in/raquelgritz/
