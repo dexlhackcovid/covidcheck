@@ -1,0 +1,17 @@
+a{
+	color:#71717b !important;
+}
+
+.container-fluid{
+	background-color:#fbb04c;
+}
+.container-fluid h2{
+	color:#ffffff;
+	background-image: url("img/logo.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	padding-left:40px;
+	text-align:left;
+}
+
+
