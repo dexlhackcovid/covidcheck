@@ -1,21 +1,21 @@
----
-title: "CovidCheck"
-author: "DexlLab"
-date: "17 de maio de 2020"
-output:
-  pdf_document: default
-  html_document:
-    df_print: paged
----
+
+CovidCheck
+
+DexlLab
 
 
-
-##Aplicação HACKCOVID
+## Aplicação HACKCOVID
 
 
 Este Repositório tem como objetivo apresentar o projeto desenvolvido para o Hackcovid19. Para o desafio, foi desenvolvida uma aplicação para auxiliar pacientes com suspeita de Covid-19. Durante a utilização, o paciente acessa o aplicativo e informa os sintomas apresentados. Em seguida a aplicação executa um algoritmo de inteligência artificial que indica uma classificação de risco baseada nos sintomas informados, sugerindo unidades de atendimento mais indicadas com base na distância e no tempo de espera estimado de acordo com o risco.
 
-##Desafio Escolhido
+Para executar é nescessario baixar a arvore de decisão pre treinada no seguinte link:
+
+https://drive.google.com/file/d/1SITq1yus620L9KKTtsTCu_vxJY6NPS8s/view?usp=sharing
+
+Insira esta na pasta covid_check_Shiny
+
+## Desafio Escolhido
 
 
 O desafio ao qual nos propomos a trabalhar é o D007 - PATH TO EMERGENCE CARE (PATH TO EMERGENCE CARE)
@@ -36,14 +36,14 @@ Tendo esta informação e a localização do usuário, informação obtida reque
 A seguir vemos algumas imagens da aplicação funcionando no celular. Esta é responsiva e se adapta a tablets e computadores também.
 
 
-##Interface Mobile
+## Interface Mobile
 
 ![](https://imgur.com/bNMxH3q.jpg)
 
 ![](https://imgur.com/W0FRfu7.jpg)
 
 
-##Arvore de Decisão
+## Arvore de Decisão
 
 
 ![](https://imgur.com/XHz8Qc7.jpg)
